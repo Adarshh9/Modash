@@ -27,10 +27,24 @@ The recommendation system uses cosine similarity to match user requirements with
 
 ## Benefits for Developers
 
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/Adarshh9/ModelMatch.git
+    cd ModelMatch
+    ```
+
+2. **Set up a virtual environment:**
+    ```sh
+    conda create --name modelmatch python=3.12
+    conda activate modelmatch
+    ```
+
+3. **Educational Tool**: Exposes developers to a variety of models and applications.
+
+4. **Scalable and Adaptable**: Easily updated with new models and datasets.
 1.**Enhanced Productivity**: Automates the recommendation and comparison process, allowing developers to focus on building.
+   
 2.**Centralized Information**: Reduces the need to visit multiple sites to gather information.
-3.**Educational Tool**: Exposes developers to a variety of models and applications.
-4.**Scalable and Adaptable**: Easily updated with new models and datasets.
 
 ## Installation
 
