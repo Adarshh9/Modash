@@ -87,7 +87,7 @@ List of recommended models with the following details:
 
 Check out a live demonstration of the ModelMatch application on YouTube: [ModelMatch Demo](https://youtu.be/4Rfqje5_KHw)
 
-[![ModelMatch Demo](https://www.youtube.com/embed/4Rfqje5_KHw?si=Rwp9T2eexW2w8WEj)](https://youtu.be/4Rfqje5_KHw)
+[![ModelMatch Demo](https://img.youtube.com/vi/4Rfqje5_KHw/0.jpg)](https://youtu.be/4Rfqje5_KHw)
 
 ## Contributing
 
