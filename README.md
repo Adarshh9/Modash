@@ -28,7 +28,7 @@ The recommendation system uses cosine similarity to match user requirements with
 
 2. **Set up a virtual environment:**
     ```sh
-    conda create --name modelmatch python=3.8
+    conda create --name modelmatch python=3.12
     conda activate modelmatch
     ```
 
@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any questions or suggestions, please contact Adarsh at adarsh@example.com.
+For any questions or suggestions, please contact at [email](akesherwani900@gmail.com).
