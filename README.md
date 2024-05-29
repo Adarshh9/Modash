@@ -21,30 +21,23 @@ The recommendation system uses cosine similarity to match user requirements with
 ## Challenges Addressed
 
 1.**Model Overload**: Filters and recommends models based on user input, reducing the overwhelming number of choices.
+
 2.**Time-Consuming Research**: Automates the process of gathering and comparing model specifications.
+
 3.**Inconsistent Model Information**: Consolidates metadata in one place, providing a uniform view.
+
 4.**Lack of Model Comparison Tools**: Includes a comparison feature to help developers make informed decisions.
+
 
 ## Benefits for Developers
 
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/Adarshh9/ModelMatch.git
-    cd ModelMatch
-    ```
-
-2. **Set up a virtual environment:**
-    ```sh
-    conda create --name modelmatch python=3.12
-    conda activate modelmatch
-    ```
+1.**Enhanced Productivity**: Automates the recommendation and comparison process, allowing developers to focus on building.
+   
+2.**Centralized Information**: Reduces the need to visit multiple sites to gather information.
 
 3. **Educational Tool**: Exposes developers to a variety of models and applications.
 
 4. **Scalable and Adaptable**: Easily updated with new models and datasets.
-1.**Enhanced Productivity**: Automates the recommendation and comparison process, allowing developers to focus on building.
-   
-2.**Centralized Information**: Reduces the need to visit multiple sites to gather information.
 
 ## Installation
 
