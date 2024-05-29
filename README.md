@@ -35,9 +35,9 @@ The recommendation system uses cosine similarity to match user requirements with
    
 2.**Centralized Information**: Reduces the need to visit multiple sites to gather information.
 
-3. **Educational Tool**: Exposes developers to a variety of models and applications.
+3.**Educational Tool**: Exposes developers to a variety of models and applications.
 
-4. **Scalable and Adaptable**: Easily updated with new models and datasets.
+4.**Scalable and Adaptable**: Easily updated with new models and datasets.
 
 ## Installation
 
