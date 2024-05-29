@@ -2,8 +2,23 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 import pandas as pd
 from utils import get_req_data ,recommend_models ,extract_first_5_words
+import requests
 
 app = Flask(__name__)
+
+# for deploying the application on web
+url = "https://huggingface.co/datasets/adarshh9/vector-db-ModelMatch/resolve/main/vector_db.pickle?download=true"
+destination = "data/vector_db.pickle"
+
+response = requests.get(url, stream=True)
+if response.status_code == 200:
+    with open(destination, 'wb') as f:
+        for chunk in response.iter_content(1024):
+            if chunk:
+                f.write(chunk)
+        print(f"File downloaded successfully and saved to {destination}")
+else:
+    print(f"Failed to download file. Status code: {response.status_code}")
 
 vectors ,df ,cv ,task_types ,tasks ,model_types ,frameworks = get_req_data()
 
