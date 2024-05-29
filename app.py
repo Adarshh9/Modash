@@ -46,4 +46,4 @@ def recommend():
     return jsonify(recommendations_list)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=False)
