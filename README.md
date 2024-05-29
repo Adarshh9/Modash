@@ -83,6 +83,12 @@ List of recommended models with the following details:
 - **Tags (first 5 words)**
 - **Direct link to the model on Hugging Face**
 
+## Demo
+
+Check out a live demonstration of the ModelMatch application on YouTube: [ModelMatch Demo](https://youtu.be/4Rfqje5_KHw)
+
+[![ModelMatch Demo](https://www.youtube.com/embed/4Rfqje5_KHw?si=Rwp9T2eexW2w8WEj)](https://youtu.be/4Rfqje5_KHw)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
