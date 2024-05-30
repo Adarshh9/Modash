@@ -59,7 +59,7 @@ The recommendation system uses cosine similarity to match user requirements with
     ```
 
 4. **Download the `vector_db.pickle` file:**
-    - Download the `vector_db.pickle` file from [Google Drive](https://drive.google.com/file/d/1ZBlk3g-x50AUOff4gXqJ4oR21RMyE0cM/view?usp=sharing) and place it in the 'Data' directory of the project.
+    - Download the `vector_db.pickle` file from [Google Drive](https://drive.google.com/file/d/1ZBlk3g-x50AUOff4gXqJ4oR21RMyE0cM/view?usp=sharing) and place it in the 'data' directory of the project.
 
 ## Usage
 
